@@ -1,34 +1,23 @@
-Read Only by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Portfolio : <a target="_blank" href="https://stevetran.netlify.app/">Visit Here</a>
+
+<a target="_blank" href="https://stevetran.netlify.app/">
+
+### Portfolio Site including links to my projects and ways to get in contact with me.
+
+## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
 
 
-Just a super simple single-page responsive template built for personal sites and portfolios
-(although it'd definitely work for other stuff too). Includes a contact form, pre-styled
-elements, and Sass sources.
+My learning was focused on making a simple UI and a smooth UX.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Optimizations
 
-(* = Not included)
+When I improve this project, I would like to add a seasonal animation for dark-mode.
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+## Lessons Learned:
 
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+Seperation of Concerns. It is easier to style fonts utilizing css as opposed to hard coding the content in HTML. This allows for easier debugging if needed. (i.e, using H1 or H2 tags to change the font size as opposed to doing it in css.)
 
 
-Credits:
 
-	Demo Images:
-		Unsplash (unsplash.com)
 
-	Icons:
-		Font Awesome (fontawesome.io)
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
